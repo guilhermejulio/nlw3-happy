@@ -1,0 +1,34 @@
+/* sintaxe CSS --> seletor, com declaração --> propriedade : valor
+
+*importancia --> sempre a ultima adicionada.
+  
+uma tag style adicionada a propria tag no html terá mais importancia.
+
+especificidade: terá mais importancia o mais especifico.
+
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    font-size: 62.5%;
+}
+
+body{
+    height: 100vh;
+    color: white;
+}
+
+body, input, button, textarea{
+    /* font-weight: 400;
+    font-size: 18px;
+    line-height: 1;
+    font-family: 'Nunito', sans-serif;  agrupamento de tudo abaixo:*/
+
+    font: 400 1.8rem/1 'Nunito',sans-serif;
+}
+
