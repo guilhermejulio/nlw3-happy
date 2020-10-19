@@ -3,7 +3,7 @@ module.exports = [
         id: 1,
         lat: "-19.9084435",
         lng: "-43.9560086",
-        name: "Casa da Criança Esperança Francisca Paula",
+        name: "Casa da criança esperança francisca de paula",
         description: "Presta assistencia a crianças de 06 a 15 anos que se encontre em situação de risco e/ou vulnerabilidade social",
         images: [
             "https://images.unsplash.com/photo-1598454444427-8bffa498b6f2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9",

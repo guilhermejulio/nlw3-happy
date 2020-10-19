@@ -66,8 +66,8 @@ fieldset + fieldset {
 }
 
 .input-block input:valid,
-.input-block textarea:valid{
-    border: 1px solid #A1E9C5;
+.input-block textarea:valid {
+  border: 1px solid #a1e9c5;
 }
 
 .input-block textarea {
@@ -93,8 +93,8 @@ fieldset + fieldset {
   position: relative;
 }
 
-.new-upload + .new-upload{
-  margin-top: 2.4rem;  
+.new-upload + .new-upload {
+  margin-top: 2.4rem;
 }
 
 .new-upload span {
@@ -111,7 +111,7 @@ fieldset + fieldset {
   box-sizing: border-box;
   display: flex;
   border-radius: 10px;
-  padding: .6rem;
+  padding: 0.6rem;
 
   cursor: pointer;
 }
